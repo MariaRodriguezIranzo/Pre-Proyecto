@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LysKloYj7wdikjeFGrOj7eFOIdiAl+m9D7NC0nw4ekwVmeVkyIqs5F4Tiv9Vqp/TcooO8OxWn9oTsW1n/M9xog==",
+  "success": true,
+  "projectFilePath": "E:\\OneDrive - Centre d'Estudis Monlau\\MONLAU\\CURSOS\\DAM\\DAM2\\Proyecto\\aplicacion\\Pre-Proyecto\\P13_MaríaRodriguez\\P13_MaríaRodriguez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariarodira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mariarodira\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\mariarodira\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
